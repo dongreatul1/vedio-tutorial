@@ -1,6 +1,10 @@
 <ul>
 	<li>apples</li>
 	<li>mango</li>
+<<<<<<< HEAD
 	<li>milk</li>
+=======
+	<li>adhmond milk</li>
+>>>>>>> 96fd8e5c29756ab2eca8f8ae291dd5ff73811525
 	<li>vegitalble</li>
 </ul>
